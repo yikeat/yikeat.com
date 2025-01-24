@@ -1,9 +1,9 @@
-import IconLinkedin from "../components/icons/linkedin.astro";
+import IconLinkedIn from "../components/icons/linkedin.astro";
 
 export const SOCIALS = [
   {
-    name: "Linkedin",
+    name: "LinkedIn",
     url: "https://www.linkedin.com/in/yikeatlan/",
-    icon: IconLinkedin,
+    icon: IconLinkedIn,
   },
 ];
