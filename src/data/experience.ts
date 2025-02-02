@@ -2,6 +2,18 @@ import type { Props as ExperienceProp } from "../components/experience/props";
 
 export const EXPERIENCE: ExperienceProp[] = [
   {
+    dates: "January 2025 — Present",
+    title: "IT Executive",
+    company: "",
+    companyUrl: "https://taikogroup.net",
+    description:
+      "Assigned to the Hospital Seri Botani.",
+    technologies: [
+      "Microsoft 365"
+    ],
+    logo: "/logos/taiko.jpeg",
+  },
+  {
     dates: "July 2024 — January 2025",
     title: "System Engineer",
     company: "IP ServerOne Solutions Sdn. Bhd.",
